@@ -1,3 +1,6 @@
+# Overview
+Project related to usage of TradingView Advanced Charts embedded component + filtering pairs of values from Binance open API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
